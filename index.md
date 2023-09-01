@@ -35,6 +35,6 @@ I obtained my PhD degree in Environmental Engineering from University College Co
 
 ## News and Updates
 
-- **Otc 2022: **Officially granted the PhD degree.
-- **Aug 2022: **Awarded the 2021 Chinese Goverment Award for Outstanding Self-financed Students Abroad (ranked No.1 in Ireland).
-- **May 2022: **Awarded the MaREI Awards 2022 for Research Excellence.
+- **Otc 2022:** Officially granted the PhD degree.
+- **Aug 2022:** Awarded the 2021 Chinese Goverment Award for Outstanding Self-financed Students Abroad (ranked No.1 in Ireland).
+- **May 2022:** Awarded the MaREI Awards 2022 for Research Excellence.
