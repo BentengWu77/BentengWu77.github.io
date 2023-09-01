@@ -11,11 +11,11 @@ owner:
  # bio:
   email: wubt@ms.giec.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  twitter: Benteng23617402
   # facebook: caihanlin2002
   github: BentengWu77
-  # linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # linkedin: 
+  scholar: https://scholar.google.com/citations?user=7Do1srcAAAAJ&hl=zh-CN
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -77,9 +77,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Benteng
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Hanlin Cai.
+# Latest update in 2023/08/28 by Benteng Wu.
