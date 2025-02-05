@@ -7,7 +7,7 @@ url: https://bentengwu77.github.io/
 # Owner/author information
 owner:
   name: Benteng Wu
-  avatar: benteng.png
+  avatar: benteng.jpg
  # bio:
   email: wubt@ms.giec.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/BentengWu-CV-20220518.pdf
   - title: Publications
     url: /publications/
   - title: Awards
@@ -82,4 +82,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Benteng Wu.
+# Latest update in 2025/02/05 by Benteng Wu.
