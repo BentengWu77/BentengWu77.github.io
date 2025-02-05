@@ -14,7 +14,7 @@ I obtained my PhD degree in Environmental Engineering from University College Co
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for postgraduates who are interested in my research area!**
+**<font color='red'>I am looking for postgraduates who are interested in my research areas!</font> **
 
 - **May 2019 - May 2022:** University College Cork (PhD)
 - **Sep 2015 - July 2018:** Hefei University of Technology (M.Eng.)
@@ -25,9 +25,10 @@ I obtained my PhD degree in Environmental Engineering from University College Co
 ---
 
 ## Research Interests
-- Resources and Energy Utilization of Organic Biowaste
-- Thermal Delamination of End-of-life New Energy Devices
-- Techno-economic and Enviromental Assessement
+- Directed biochemical conversion of C1 feedstocks
+- Microbial chain elongation
+- Thermal delamination of end-of-life photovoltaic laminates
+- Bioleaching
 
 <br>
 
