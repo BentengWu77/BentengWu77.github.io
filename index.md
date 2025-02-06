@@ -8,7 +8,7 @@ layout: page
 
 Here is **Benteng Wu ([吴奔腾](https://bentengwu77.github.io/file/吴奔腾简历20230720.pdf))**.
 
-I obtained my PhD degree in Environmental Engineering from University College Cork in 2022. Currently, I am working as a full professor at the Guangzhou Insititute of Energy Conversion, Chinese Academy of Sciences. Here is [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20220518.pdf)].
+I obtained my PhD degree in Environmental Engineering from University College Cork in 2022. Currently, I am working as a full professor at the Guangzhou Insititute of Energy Conversion, Chinese Academy of Sciences. Here is [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
 
 <br>
 
