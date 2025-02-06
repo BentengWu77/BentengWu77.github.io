@@ -6,15 +6,15 @@ layout: page
 
 <img src="https://bentengwu77.github.io/bentengwu.jpg" class="floatpic" width="360" height="480">
 
-Here is **Benteng Wu ([吴奔腾](https://bentengwu77.github.io/file/吴奔腾简历20230720.pdf))**.
+Here is **Benteng Wu (吴奔腾)** [中文版本 (Chinese Version)](https://bentengwu77.github.io/index-zh/).
 
-I obtained my PhD degree in Environmental Engineering from University College Cork in 2022. Currently, I am working as a full professor at the Guangzhou Insititute of Energy Conversion, Chinese Academy of Sciences. Here is [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
+In 2019, I received funding from the Irish Environmental Protection Agency (EPA) to pursue a PhD in Environmental Engineering at University College Cork. I studied under supervision of Prof. Richen Lin, a EU Marie Curie Fellow, and Prof. Jerry D. Murphy, a Fellow of the Royal Academy of Engineering of Ireland and a lead expert at the International Energy Agency (IEA Task 37) in the field of energy and environment. After obtaining my PhD in 2022, I continued as a postdoctoral researcher at University College Cork. In 2023, I joined the Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences, as a full professor. You can find [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
+
+**<font color='darkred' font size='5'>I welcome postgraduate students with a strong interest in my research areas to join my group!</font> **
 
 <br>
 
 ## Academic Background
-
-**<font color='darkred' font size='5'>I am looking for postgraduates who are interested in my research areas!</font> **
 
 - **May 2019 - May 2022:** University College Cork (PhD), Environmental Engineering
 - **Sep 2015 - July 2018:** Hefei University of Technology (M.Eng.), Civil Engineering
@@ -34,8 +34,15 @@ I obtained my PhD degree in Environmental Engineering from University College Co
 
 ---
 
-## News and Updates
+## Postgraduates Under Supervision
 
-- **Otc 2022:** Officially granted the PhD degree.
-- **Aug 2022:** Awarded the 2021 Chinese Goverment Award for Outstanding Self-financed Students Abroad (ranked No.1 in Ireland).
-- **May 2022:** Awarded the MaREI Awards 2022 for Research Excellence.
+### PhD students
+
+- Nian Li (2nd year; co-supervised)
+- Pengtao Xu (1st year)
+
+### Master's students
+
+- Yuanzhong Zhang (3rd year; co-supervised)
+- Xingyu Zhu (2nd year)
+- Yifei Wang (1st year; co-supervised)
