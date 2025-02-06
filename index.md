@@ -8,7 +8,7 @@ layout: page
 
 Here is **Benteng Wu (吴奔腾)** [中文版本 (Chinese Version)](https://bentengwu77.github.io/index-zh/).
 
-In 2019, I received funding from the Irish Environmental Protection Agency (EPA) to pursue a PhD in Environmental Engineering at University College Cork. I studied under supervision of Prof. Richen Lin, a EU Marie Curie Fellow, and Prof. Jerry D. Murphy, a Fellow of the Royal Academy of Engineering of Ireland and a lead expert at the International Energy Agency (IEA Task 37) in the field of energy and environment. After obtaining my PhD in 2022, I continued as a postdoctoral researcher at University College Cork. In 2023, I joined the Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences, as a full professor. You can find [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
+In 2019, I received funding from the Irish Environmental Protection Agency (EPA) to pursue a PhD in Environmental Engineering at University College Cork. After obtaining my PhD in 2022, I continued as a postdoctoral researcher at University College Cork. In 2023, I joined the Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences, as a full professor. You can find [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
 
 **<font color='darkred' font size='5'>I welcome postgraduate students with a strong interest in my research areas to join my group!</font> **
 
@@ -16,8 +16,8 @@ In 2019, I received funding from the Irish Environmental Protection Agency (EPA)
 
 ## Academic Background
 
-- **May 2019 - May 2022:** University College Cork (PhD), Environmental Engineering
-- **Sep 2015 - July 2018:** Hefei University of Technology (M.Eng.), Civil Engineering
+- **May 2019 - May 2022:** University College Cork (PhD), Environmental Engineering (Supervisor: Prof. Richen Lin and Prof Jerry D. Murphy)
+- **Sep 2015 - July 2018:** Hefei University of Technology (M.Eng.), Civil Engineering (Supervisor: Prof Wei Wang)
 - **Sep 2011 - July 2015:** Hefei University of Technology (B.Eng.), Water Supply and Drainage Engineering
 
 <br>
