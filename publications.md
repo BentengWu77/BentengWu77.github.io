@@ -4,31 +4,17 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 27th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 6th Feb 2025&nbsp;
 
-## Conference Paper
+## Representative works
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+1. **Wu, Benteng**; Lin, Richen; Gu, Jing; Yuan, Haoran; Murphy, Jerry D. [Biochar confers significant microbial resistance to ammonia toxicity in n-caproic acid production](https://doi.org/10.1016/j.watres.2024.122367). ***Water Res.*** 2024, *266*, 122367<br>
+2. **Wu, Benteng**; Lin, Richen; Kang, Xihui; Deng, Chen; Dobson, Alan D. W.; Murphy, Jerry D. [Improved robustness of ex-situ biological methanation for electro-fuel production through the addition of graphene](https://doi.org/10.1016/j.rser.2021.111690). ***Renew. Sust. Energ. Rev.*** 2021, *152*, 111690. <br>
+3. **Wu, Benteng**; Lin, Richen; O'Shea, Richard; Deng, Chen; Rajendran, Karthik; Murphy, Jerry D. [Production of advanced fuels through integration of biological, thermo-chemical and power to gas technologies in a circular cascading bio-based system](https://doi.org/10.1016/j.rser.2020.110371). ***Renew. Sust. Energ. Rev.*** 2021, *135*, 110371. <br>
+4. **Wu, Benteng**; Lin, Richen; Kang, Xihui; Deng, Chen; Xia, Ao; Dobson, Alan D. W.; Murphy, Jerry D. [Graphene addition to digestion of thin stillage can alleviate acidic shock and improve biomethane production](https://doi.org/10.1021/acssuschemeng.0c03484). ***ACS Sustain. Chem. Eng.*** 2020, *8* (35), 13248-13260. <br>
+5. **Wu, Benteng**; Lin, Richen; Ning, Xue; Kang, Xihui; Deng, Chen; Dobson, Alan D. W.; Murphy, Jerry D. [An assessment of how the properties of pyrochar and process thermodynamics impact pyrochar mediated microbial chain elongation in steering the production of medium-chain fatty acids towards n-caproate](https://doi.org/10.1016/j.biortech.2022.127294). ***Bioresour. Technol.*** 2022, *358*, 127294. <br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://ieeexplore.ieee.org/abstract/document/10037387)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+## Other works
 
-## Working Manuscript
+See my [Google scholar](https://scholar.google.com/citations?user=7Do1srcAAAAJ&hl=zh-CN) or [Researchgate](https://www.researchgate.net/profile/Benteng-Wu?ev=prf_overview)
 
-- BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.<br>
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final year project, under working!<br>Expect to publish a research paper in Internet of Things Journal (IoTJ 2024)
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
-
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo (Advisor: Zhezhuang Xu)<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>

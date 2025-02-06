@@ -14,11 +14,11 @@ I obtained my PhD degree in Environmental Engineering from University College Co
 
 ## Academic Background
 
-**<font color='red'>I am looking for postgraduates who are interested in my research areas!</font> **
+**<font color='darkred' font size='5'>I am looking for postgraduates who are interested in my research areas!</font> **
 
-- **May 2019 - May 2022:** University College Cork (PhD)
-- **Sep 2015 - July 2018:** Hefei University of Technology (M.Eng.)
-- **Sep 2011 - July 2015:** Hefei University of Technology (B.Eng.)
+- **May 2019 - May 2022:** University College Cork (PhD), Environmental Engineering
+- **Sep 2015 - July 2018:** Hefei University of Technology (M.Eng.), Civil Engineering
+- **Sep 2011 - July 2015:** Hefei University of Technology (B.Eng.), Water Supply and Drainage Engineering
 
 <br>
 
