@@ -4,7 +4,7 @@ permalink: /fundings/index.html
 title: Fundings
 ---
 
-Lastest Update: 6th Feb 2025
+Lastest Update: 6th Feb 2025  [中文版本 (Chinese Version)](https://bentengwu77.github.io/file/fundings-zh/)
 
 ## Fundings
 

@@ -4,7 +4,7 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-## 综合奖学金
+## 所获荣誉
 
 - 中国科学院特聘骨干，中国科学院，2023
 - 循环经济科技创新青年优秀贡献奖，中国有色金属学会，2023
