@@ -4,7 +4,7 @@ permalink: /file/fundings-zh/index.html
 title: fundings-zh
 ---
 
-Lastest Update: 6th Feb 2025
+Lastest Update: 6th Feb 2025  [English Version (英文)](https://bentengwu77.github.io/fundings/)
 
 ## 科研项目
 
