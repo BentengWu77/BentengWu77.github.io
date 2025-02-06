@@ -7,7 +7,7 @@ url: https://bentengwu77.github.io/
 # Owner/author information
 owner:
   name: Benteng Wu
-  avatar: /images/benteng.jpg
+  avatar: benteng.jpg
 
  # bio:
   email: wubt@ms.giec.ac.cn
@@ -38,7 +38,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/BentengWu-CV-20220518.pdf
+    url: /file/BentengWu-CV-20250126.pdf
   - title: Publications
     url: /publications/
   - title: Awards
