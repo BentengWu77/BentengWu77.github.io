@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /index-zh/index.html
+title: index-zh
 ---
 
 # 自我介绍 
