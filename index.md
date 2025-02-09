@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://bentengwu77.github.io/bentengwu.jpg" class="floatpic" width="360" height="480">
 
-Here is **Benteng Wu (吴奔腾)** [中文版本 (Chinese Version)](https://bentengwu77.github.io/file/index-zh/).
+Here is **Benteng Wu (吴奔腾)** [中文版本 (Chinese Version)](https://bentengwu77.github.io/index-zh/).
 
 In 2019, I received funding from the Irish Environmental Protection Agency (EPA) to pursue a PhD in Environmental Engineering at University College Cork. After obtaining my PhD in 2022, I continued as a postdoctoral researcher at University College Cork. In 2023, I joined the Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences, as a full professor. You can find [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
 
