@@ -8,7 +8,7 @@ layout: page
 
 Here is **Benteng Wu (吴奔腾)** 
 
-In 2019, I received funding from the Irish Environmental Protection Agency (EPA) to pursue a PhD in Environmental Engineering at University College Cork. After obtaining my PhD in 2022, I continued as a postdoctoral researcher at University College Cork. In 2023, I joined the Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences, as a full professor. You can find [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250126.pdf)].
+In 2019, I received funding from the Irish Environmental Protection Agency (EPA) to pursue a PhD in Environmental Engineering at University College Cork. After obtaining my PhD in 2022, I continued as a postdoctoral researcher at University College Cork. In 2023, I joined the Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences, as a full professor. You can find [[my CV](https://bentengwu77.github.io/file/BentengWu-CV-20250225-Eng.pdf)] or [[中文简历 (Chinese Version)](https://bentengwu77.github.io/file/BentengWu-CV-20250126-zh.pdf) ].
 
 **<font color='darkred' font size='5'>I welcome postgraduate students with a strong interest in my research areas to join my group!</font> **
 
