@@ -1,0 +1,322 @@
+{
+  "updated": "2026-09-25",
+  "profile": {
+    "name": {
+      "zh": "吴奔腾",
+      "en": "Benteng Wu"
+    },
+    "role": {
+      "zh": "研究员 · 博士生导师",
+      "en": "Professor · PhD Supervisor"
+    },
+    "institution": {
+      "zh": "中国科学院广州能源研究所",
+      "en": "Guangzhou Institute of Energy Conversion, Chinese Academy of Sciences"
+    },
+    "email": "wubt@ms.giec.ac.cn",
+    "scholar": "https://scholar.google.com/citations?user=7Do1srcAAAAJ&hl=zh-CN",
+    "portrait": "assets/portrait.png",
+    "cvZh": "assets/cv-zh.pdf",
+    "cvEn": "assets/cv-en.pdf",
+    "intro": {
+      "zh": "围绕资源循环利用，开展碳资源生物转化、材料与微生物相互作用，以及退役光伏组件循环利用研究。",
+      "en": "Research on biological conversion of carbon resources, material–microbe interactions, and recycling of end-of-life PV modules."
+    },
+    "linkedin": "https://www.linkedin.com/in/benteng-wu/"
+  },
+  "research": [
+    {
+      "id": "bioconversion",
+      "n": "01",
+      "title": {
+        "zh": "可腐有机固废生化转化",
+        "en": "Biological conversion of carbon resources"
+      },
+      "subtitle": {
+        "zh": "从碳一原料到微生物链延长",
+        "en": "From C1 feedstocks to microbial chain elongation"
+      },
+      "text": {
+        "zh": "关注碳一原料的定向生化转化与微生物链延长，探索碳资源向燃料及高值化学品转化的路径。",
+        "en": "Exploring directed biochemical conversion of C1 feedstocks and microbial chain elongation to produce fuels and value-added chemicals."
+      },
+      "question": {
+        "zh": "如何提升碳资源生物转化过程的效率、选择性与稳定性？",
+        "en": "How can biological carbon conversion become more efficient, selective and robust?"
+      },
+      "methods": {
+        "zh": "微生物转化 · 过程调控 · 热力学分析",
+        "en": "Microbial conversion · Process regulation · Thermodynamic analysis"
+      }
+    },
+    {
+      "id": "materials",
+      "n": "02",
+      "title": {
+        "zh": "材料与微生物相互作用",
+        "en": "Material–microbe interactions"
+      },
+      "subtitle": {
+        "zh": "理解电子传递，改善生物转化",
+        "en": "Understanding electron transfer in bioconversion"
+      },
+      "text": {
+        "zh": "研究生物炭、石墨烯等材料与微生物过程的耦合，关注胞外电子传递及环境胁迫下的转化表现。",
+        "en": "Investigating how biochar, graphene and related materials interact with microbial processes, with a focus on extracellular electron transfer and conversion under environmental stress."
+      },
+      "question": {
+        "zh": "材料的性质如何影响微生物电子传递及转化过程？",
+        "en": "How do material properties influence microbial electron transfer and conversion?"
+      },
+      "methods": {
+        "zh": "功能材料 · 微生物群落 · 电子传递",
+        "en": "Functional materials · Microbial communities · Electron transfer"
+      }
+    },
+    {
+      "id": "recycling",
+      "n": "03",
+      "title": {
+        "zh": "退役光伏组件循环利用",
+        "en": "Recycling of End-of-Life PV Modules"
+      },
+      "subtitle": {
+        "zh": "退役光伏层压件的解离与循环利用",
+        "en": "Delamination and recycling of photovoltaic laminates"
+      },
+      "text": {
+        "zh": "围绕退役光伏层压件的热化学解离，研究组分相互作用与污染物迁移，为资源回收与过程优化提供依据。",
+        "en": "Studying thermochemical delamination of end-of-life photovoltaic laminates, including component interactions and pollutant migration, to inform resource recovery and process optimization."
+      },
+      "question": {
+        "zh": "如何理解光伏层压件解离中的组分作用与氟迁移？",
+        "en": "How do component interactions influence delamination and fluorine migration?"
+      },
+      "methods": {
+        "zh": "热化学转化 · 反应机理 · 产物分析",
+        "en": "Thermochemical conversion · Reaction mechanisms · Product analysis"
+      }
+    }
+  ],
+  "publications": [
+    {
+      "id": "p2025pv",
+      "year": 2025,
+      "title": "Thermochemical recycling of end-of-life photovoltaic laminates using pyrolysis: Interaction mechanisms and fluorine migration and transformation",
+      "authors": "Yuanzhong Zhang, Jing Gu, Benteng Wu, Jianwei Wang, Haoran Yuan",
+      "journal": "Resources, Conservation and Recycling",
+      "details": "219, 108312",
+      "doi": "10.1016/j.resconrec.2025.108312",
+      "topic": "recycling",
+      "featured": true,
+      "note": {
+        "zh": "关注封装层与背板共热解的相互作用及氟迁移，为光伏层压件回收和污染物管理提供依据。",
+        "en": "Examines co-pyrolysis interactions and fluorine migration in photovoltaic laminates to inform recycling and pollutant management."
+      }
+    },
+    {
+      "id": "p2024water",
+      "year": 2024,
+      "title": "Biochar confers significant microbial resistance to ammonia toxicity in n-caproic acid production",
+      "authors": "Benteng Wu, Richen Lin, Jing Gu, Haoran Yuan, Jerry D. Murphy",
+      "journal": "Water Research",
+      "details": "266, 122367",
+      "doi": "10.1016/j.watres.2024.122367",
+      "topic": "materials",
+      "featured": true,
+      "note": {
+        "zh": "研究生物炭对氨胁迫下微生物链延长的促进作用，连接材料性质、电子传递与己酸生产。",
+        "en": "Studies how biochar supports microbial chain elongation under ammonia stress, connecting materials, electron transfer and n-caproic acid production."
+      }
+    },
+    {
+      "id": "p2022bio",
+      "year": 2022,
+      "title": "An assessment of how the properties of pyrochar and process thermodynamics impact pyrochar mediated microbial chain elongation in steering the production of medium-chain fatty acids towards n-caproate",
+      "authors": "Benteng Wu, Richen Lin, Xue Ning, Xihui Kang, Chen Deng, Alan D. W. Dobson, Jerry D. Murphy",
+      "journal": "Bioresource Technology",
+      "details": "358, 127294",
+      "doi": "10.1016/j.biortech.2022.127294",
+      "topic": "bioconversion",
+      "featured": false,
+      "note": {
+        "zh": "从热解炭性质与过程热力学出发，研究微生物链延长中己酸产率及选择性的调控。",
+        "en": "Investigates how pyrochar properties and thermodynamics influence n-caproate yield and selectivity in microbial chain elongation."
+      }
+    },
+    {
+      "id": "p2021meth",
+      "year": 2021,
+      "title": "Improved robustness of ex-situ biological methanation for electro-fuel production through the addition of graphene",
+      "authors": "Benteng Wu, Richen Lin, Xihui Kang, Chen Deng, Alan D. W. Dobson, Jerry D. Murphy",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "details": "152, 111690",
+      "doi": "10.1016/j.rser.2021.111690",
+      "topic": "bioconversion",
+      "featured": true,
+      "note": {
+        "zh": "研究石墨烯对间歇供气条件下异位生物甲烷化稳定性的影响。",
+        "en": "Investigates graphene-assisted robustness of ex-situ biomethanation under intermittent gas supply."
+      }
+    },
+    {
+      "id": "p2021system",
+      "year": 2021,
+      "title": "Production of advanced fuels through integration of biological, thermo-chemical and power to gas technologies in a circular cascading bio-based system",
+      "authors": "Benteng Wu, Richen Lin, Richard O’Shea, Chen Deng, Karthik Rajendran, Jerry D. Murphy",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "details": "135, 110371",
+      "doi": "10.1016/j.rser.2020.110371",
+      "topic": "bioconversion",
+      "featured": false,
+      "note": {
+        "zh": "探讨生物转化、热化学与电转气技术集成的循环生物系统。",
+        "en": "Explores a circular bio-based system integrating biological, thermochemical and power-to-gas technologies."
+      }
+    },
+    {
+      "id": "p2020acs",
+      "year": 2020,
+      "title": "Graphene addition to digestion of thin stillage can alleviate acidic shock and improve biomethane production",
+      "authors": "Benteng Wu, Richen Lin, Xihui Kang, Chen Deng, Ao Xia, Alan D. W. Dobson, Jerry D. Murphy",
+      "journal": "ACS Sustainable Chemistry & Engineering",
+      "details": "8(35), 13248–13260",
+      "doi": "10.1021/acssuschemeng.0c03484",
+      "topic": "materials",
+      "featured": false,
+      "note": {
+        "zh": "研究石墨烯对稀酒糟厌氧消化酸冲击恢复及生物甲烷生产的影响。",
+        "en": "Examines graphene addition for recovery from acidic shock and biomethane production during thin stillage digestion."
+      }
+    },
+    {
+      "id": "p1790349253484",
+      "year": 2026,
+      "title": "Thermochemical Delamination of End-of-Life Photovoltaic Laminates: Kinetics, Thermodynamics, and Product Evolution of Next-Generation Encapsulants",
+      "authors": "Zhu, Xingyu Wu, Benteng Gu, Jing Fang, Qingyan Wu, Libin Yuan, Haoran",
+      "journal": "ACS Sustainable Chemistry & Engineering",
+      "details": "",
+      "doi": "10.1021/acssuschemeng.6c03283",
+      "topic": "recycling",
+      "featured": true,
+      "note": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "p1790349406841",
+      "year": 2026,
+      "title": "A circular biorefinery integrating microbial chain elongation, anaerobic digestion and pyrolysis for sustainable medium-chain fatty acid production",
+      "authors": "Zhu, Xingyu Wu, Benteng Cheng, Yangjuan Li, Nian Kang, Xihui Gu, Jing Yuan, Haoran",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "details": "",
+      "doi": "10.1016/j.rser.2026.117027",
+      "topic": "bioconversion",
+      "featured": true,
+      "note": {
+        "zh": "",
+        "en": ""
+      }
+    }
+  ],
+  "members": [
+    {
+      "name": "Nian Li",
+      "year": "2023",
+      "status": "phd",
+      "destination": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    {
+      "name": "Pengtao Xu",
+      "year": "2024",
+      "status": "phd",
+      "destination": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    {
+      "name": "Yangjuan Cheng",
+      "year": "2025",
+      "status": "phd",
+      "destination": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    {
+      "name": "Xingyu Zhu",
+      "year": "2023",
+      "status": "phd",
+      "destination": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    {
+      "name": "Yifei Wang",
+      "year": "2024",
+      "status": "master",
+      "destination": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    {
+      "name": "Yuanzhong Zhang",
+      "year": "2022",
+      "status": "alumni",
+      "destination": {
+        "zh": "湖北电力规划研究院有限公司",
+        "en": ""
+      }
+    },
+    {
+      "name": "Xinyue Ma",
+      "year": "2026",
+      "status": "master",
+      "destination": {
+        "zh": "",
+        "en": ""
+      }
+    }
+  ],
+  "opportunity": {
+    "active": true,
+    "text": {
+      "zh": "欢迎对上述研究方向感兴趣的同学联系交流。请通过工作邮箱介绍您的教育背景、研究兴趣，并附个人简历。具体招生安排以当年度官方通知及邮件确认为准。",
+      "en": "Students interested in these research areas are welcome to get in touch. Please email a brief introduction, your research interests and your CV. Admission arrangements are subject to the relevant official announcements and confirmation by email."
+    }
+  },
+  "experience": [
+    {
+      "date": "2023.02 —",
+      "zh": "中国科学院广州能源研究所 · 研究员",
+      "en": "Guangzhou Institute of Energy Conversion, CAS · Professor"
+    },
+    {
+      "date": "2022.04 — 2023.02",
+      "zh": "MaREI · 博士后",
+      "en": "MaREI · Postdoctoral Researcher"
+    },
+    {
+      "date": "2019.05 — 2022.05",
+      "zh": "爱尔兰科克大学 · 环境工程博士",
+      "en": "University College Cork · PhD, Environmental Engineering"
+    },
+    {
+      "date": "2015.09 — 2018.07",
+      "zh": "合肥工业大学 · 工程硕士",
+      "en": "Hefei University of Technology · Master of Engineering"
+    },
+    {
+      "date": "2011.09 — 2015.07",
+      "zh": "合肥工业大学 · 工程学士",
+      "en": "Hefei University of Technology · Bachelor of Engineering"
+    }
+  ]
+}
