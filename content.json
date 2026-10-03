@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-10-03",
   "profile": {
     "name": {
       "zh": "吴奔腾",
@@ -19,8 +19,8 @@
     "cvZh": "assets/cv-zh.pdf",
     "cvEn": "assets/cv-en.pdf",
     "intro": {
-      "zh": "围绕资源循环利用，开展碳资源生物转化、材料与微生物相互作用，以及退役光伏组件循环利用研究。",
-      "en": "Research on biological conversion of carbon resources, material–microbe interactions, and recycling of end-of-life PV modules."
+      "zh": "主要从事废弃物处理与定向资源化（退役光伏层压件高效解离、可腐有机固废处理与资源化利用、碳一原料高值转化与利用）、功能材料开发和生物新技术（功能材料定向构筑、炭材料-微生物耦合强化胞外电子传递）的理论及技术研究。",
+      "en": "My research focuses on the fundamentals and technologies of waste treatment and targeted valorization, functional materials, and biotechnology. Specific interests include efficient delamination of end-of-life photovoltaic modules, treatment and valorization of biodegradable organic waste, conversion of C1 feedstocks into high-value products, tailored synthesis of functional materials, and enhanced extracellular electron transfer through carbon material–microbe coupling."
     },
     "linkedin": "https://www.linkedin.com/in/benteng-wu/"
   },
@@ -276,7 +276,7 @@
       }
     },
     {
-      "name": "Xinyue Ma",
+      "name": "Yuexin Ma",
       "year": "2026",
       "status": "master",
       "destination": {
