@@ -26,9 +26,9 @@ let visitorStatsStarted=false,visitorStatsValue=null,visitorStatsState='loading'
 function renderVisitorStats(){
  const enabled=location.hostname.toLowerCase()==='bentengwu77.github.io'&&!params.has('preview');
  const bar=document.createElement('div');bar.className='wrap site-stats';
- bar.innerHTML='<span>'+t('全站浏览次数（PV）：','Total page views (PV): ')+'</span><span id="busuanzi_container_site_pv" style="display:none"><span id="busuanzi_value_site_pv"></span></span><span id="visitor-stats-status" role="status"></span><span class="stats-provider"> · <a href="https://busuanzi.ibruce.info/" target="_blank" rel="noopener" title="'+t('重复浏览会累计计数；由不蒜子提供统计。','Repeat page views are counted. Statistics provided by Busuanzi.')+'">'+t('不蒜子统计','Busuanzi')+' ↗</a></span>';
+ bar.innerHTML='<span>'+t('全站浏览次数（PV）：','Total page views (PV): ')+'</span><span id="busuanzi_container_site_pv" style="display:none"><span id="busuanzi_site_pv"></span></span><span id="visitor-stats-status" role="status"></span><span class="stats-provider"> · <a href="https://www.busuanzi.cc/" target="_blank" rel="noopener" title="'+t('重复浏览会累计计数；由不蒜子提供统计。','Repeat page views are counted. Statistics provided by Busuanzi.')+'">'+t('不蒜子统计','Busuanzi')+' ↗</a></span>';
  document.getElementById('footer').appendChild(bar);
- const value=bar.querySelector('#busuanzi_value_site_pv'),container=bar.querySelector('#busuanzi_container_site_pv'),status=bar.querySelector('#visitor-stats-status');
+ const value=bar.querySelector('#busuanzi_site_pv'),container=bar.querySelector('#busuanzi_container_site_pv'),status=bar.querySelector('#visitor-stats-status');
  if(visitorStatsObserver)visitorStatsObserver.disconnect();
  if(visitorStatsValue!==null){value.textContent=visitorStatsValue;container.style.display='inline';status.textContent=''}else{status.textContent=!enabled?t('预览不计数','Preview excluded'):visitorStatsState==='unavailable'?t('暂不可用','Unavailable'):t('加载中…','Loading…')}
  if(!enabled)return;
@@ -37,7 +37,7 @@ function renderVisitorStats(){
  if(visitorStatsStarted)return;
  visitorStatsStarted=true;
  const fail=()=>{if(visitorStatsValue!==null)return;visitorStatsState='unavailable';const message=document.getElementById('visitor-stats-status');if(message)message.textContent=t('暂不可用','Unavailable')};
- const script=document.createElement('script');script.src='https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';script.async=true;script.onerror=fail;document.head.appendChild(script);
+ const script=document.createElement('script');script.src='https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js';script.async=true;script.onerror=fail;document.head.appendChild(script);
  visitorStatsTimer=setTimeout(fail,8000);
 }
 
